@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Bondpley/Format-Math-Luau-Module?style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/Bondpley/Format-Math-Luau-Module?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VERSION-V.1.42-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VERSION-V.1.0-red?style=for-the-badge">
 </p>
 <p align="center"><img height="220px" style="margin: 0; padding: 0" src="img/logo_png.png" /></p>
 
