@@ -1,4 +1,4 @@
-<h1 align="center">FormatMath Module</h1>
+<h1 align="center">FormatMath - Luau Utility Module</h1>
 
 <p align="center">
   <b>A lightweight Roblox Studio serializer for saving, exporting, and restoring Instance hierarchies.</b>
@@ -349,7 +349,7 @@ See [`LICENSE`](LICENSE) for more information.
 ---
 
 <p align="center">
-  <sub>FormatMath • Luau Utility Module</sub>
+  <sub>FormatMath - Luau Utility Module</sub>
   <br>
   <sub>Built for Roblox development</sub>
 </p>
