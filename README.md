@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Roblox%20Studio-Plugin-black?style=for-the-badge&logo=roblox&logoColor=white">
+  <img src="https://img.shields.io/badge/Roblox%20Studio-Module-black?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
 </p>
