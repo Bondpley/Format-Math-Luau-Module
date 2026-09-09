@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/VERSION-V.1.42-red?style=for-the-badge">
 </p>
 <p align="center"><img height="320px" style="margin: 0; padding: 0" src="img/logo_png.png" /></p>
-
 ---
-
 ## Overview
 
 **FormatMath** is a small Luau utility module designed to keep common math and formatting operations in one place.
